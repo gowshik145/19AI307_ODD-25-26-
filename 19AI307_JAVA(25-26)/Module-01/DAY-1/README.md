@@ -4,7 +4,7 @@
 Lovely has just started learning Java and is very excited about how to display messages on the screen. Her first mission is to understand how different types of print statements work:
 
 System.out.print() → prints on the same line
-
+ 
 System.out.println() → prints and moves to the next line
 
 System.out.printf() → prints formatted output
